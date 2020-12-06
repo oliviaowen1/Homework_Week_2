@@ -4,8 +4,8 @@
 ## Table of Contents
 
 * [Overview](#Overview)
-* [Features of my project](#Features)
-* [Potential](#Potential)
+* [Features](#Features)
+* [Improvements](#Potential)
 * [License](#license)
 
 
@@ -24,8 +24,8 @@ You are able to see an example of this in the screenshot below:
 
 ![image description or alt text](https://raw.githubusercontent.com/oliviaowen1/Homework_Week_2/main/assets/Homework_week_2_Screenshot.png)
 
-## Potential improvements
-Should i do this project again, i would like to include JavaScript, so i would be able to click a button to change the CSS styling of the page, this would make every element larger so that people had the choice which size they viewed the page in, as well as change the colour so that those who may be colourblind, visually impaired or need extra help are able to use the website with more ease and it is more inclusive.
+## Improvements
+Should i do this project again or have chance to work on it in the future, i would like to include JavaScript, so i would be able to click a button to change the CSS styling of the page, this would make every element larger so that people had the choice which size they viewed the page in, as well as change the colour so that those who may be colourblind, visually impaired or need extra help are able to use the website with more ease and it is more inclusive.
 
 ## License
                     GNU GENERAL PUBLIC LICENSE
