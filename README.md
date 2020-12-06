@@ -5,7 +5,7 @@
 
 * [Overview](#Overview)
 * [Features](#Features)
-* [Improvements](#Potential)
+* [Improvements](#Improvements)
 * [License](#license)
 
 
