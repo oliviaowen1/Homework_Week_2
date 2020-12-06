@@ -16,6 +16,10 @@ You are able to see an example of this in the screenshot below:
 
 ![screenshot](./assets/homework_week_2_screenshot.png)
 
+<p>
+    <img src="./assets/homework_week_2_screenshot.png" width="220" height="240" />
+</p>
+
 ## Potential improvements
 Should i do this project again, i would like to include JavaScript, so i would be able to click a button to change the CSS styling of the page, this would make every element larger so that people had the choice which size they viewed the page in, as well as change the colour so that those who may be colourblind, visually impaired or need extra help are able to use the website with more ease and it is more inclusive.
 
