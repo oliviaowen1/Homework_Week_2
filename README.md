@@ -4,6 +4,7 @@
 ## Table of Contents
 
 * [Overview](#Overview)
+* [Installation](#Installation)
 * [Features](#Features)
 * [Improvements](#Improvements)
 * [License](#license)
@@ -12,6 +13,11 @@
 ## Overview
 For this assignment, i had to take the Horiseon website and refactor the code, to ensure it works and is written efficiently as well as ensuring that is meets the accessibility criteria.
 Websites need to ensure that they meet the accessibility criteria, to ensure that all web-users are able to view and use the website with the same ease and use all of the functions in full.
+
+## Installation
+In order to use this website, you can open it in any brower and you will be able to use the navigation bar to navigate through the main body of the page.
+Whilst going through the page you will notice added accessibility features to make it easy for every user. 
+You will be able to edit or amend this by cloning through GitHub and using Visual Studio Code as the website is written using HTML and CSS.
 
 ## Features
 In order to ensure i met this criteria, i had to first ensure that the code was working efficiently. This meant that i had add IDs in to the HTML file in order to ensure the Nav Bar buttons worked. 
