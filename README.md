@@ -1,7 +1,15 @@
 # Homework_Week_2
 ## Code Refactor
 
-## Project Overview
+## Table of Contents
+
+* [Overview](#Overview)
+* [Features of my project](#Features)
+* [Potential](#Potential)
+* [License](#license)
+
+
+## Overview
 For this assignment, i had to take the Horiseon website and refactor the code, to ensure it works and is written efficiently as well as ensuring that is meets the accessibility criteria.
 Websites need to ensure that they meet the accessibility criteria, to ensure that all web-users are able to view and use the website with the same ease and use all of the functions in full.
 
@@ -16,9 +24,13 @@ You are able to see an example of this in the screenshot below:
 
 ![image description or alt text](https://raw.githubusercontent.com/oliviaowen1/Homework_Week_2/main/assets/Homework_week_2_Screenshot.png)
 
-![screenshot](./assets/homework_week_2_screenshot.png)
-
 ## Potential improvements
 Should i do this project again, i would like to include JavaScript, so i would be able to click a button to change the CSS styling of the page, this would make every element larger so that people had the choice which size they viewed the page in, as well as change the colour so that those who may be colourblind, visually impaired or need extra help are able to use the website with more ease and it is more inclusive.
 
+## License
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
