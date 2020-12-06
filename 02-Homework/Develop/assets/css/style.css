@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Below is all of the styling for the header section*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,20 +40,21 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Below is all of the styling for the Nav Bar links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/* This allows the below IDs and Classes to change when focussed on and hover over. */
 a:hover, a:focus, p:hover, .search-engine-optimization:hover, .online-reputation-management:hover, .social-media-marketing:hover {
     color: yellow;
     font-size: 20px;
 }
-
+/* Paragraph styling */
 p {
     font-size: 16px;
 }
-
+/* This covers the styling of the main body of text, including the positioning of the text and images */
 .hero {
     height: 800px;
     width: 100%;
@@ -123,7 +124,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Below is the styling of the footer of the page. */
 .footer {
     padding: 30px;
     clear: both;
