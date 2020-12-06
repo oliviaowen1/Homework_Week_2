@@ -13,7 +13,7 @@
 For this assignment, i had to take the Horiseon website and refactor the code, to ensure it works and is written efficiently as well as ensuring that is meets the accessibility criteria.
 Websites need to ensure that they meet the accessibility criteria, to ensure that all web-users are able to view and use the website with the same ease and use all of the functions in full.
 
-## Features of my project
+## Features
 In order to ensure i met this criteria, i had to first ensure that the code was working efficiently. This meant that i had add IDs in to the HTML file in order to ensure the Nav Bar buttons worked. 
 I also provided the document with a simple title, that explained quickly and easily which website was open. 
 The CSS file provided for the website was working fully, however it was written across many lines, often repeating information that could be simplified. As many classes, IDs and attributes had the same styling, i was able to move these all on to one line, seperated by commas, in order to give them all the same style.
